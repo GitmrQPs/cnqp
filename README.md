@@ -26,7 +26,7 @@ three->data=3;
 one->next = two;
 two->next = three;
 three->next = NULL;
-printf("key: level2key1");
+printf("key2.1: c0e3a92e8a24647b0f4f8ae116440b56");
 /* Save address of first node in head */
 head = one;
 If you didn't understand any of the lines above, all you need is a refresher on pointers and structs.
